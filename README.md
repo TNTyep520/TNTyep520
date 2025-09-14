@@ -1,7 +1,12 @@
+## Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=TNTyep520&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_border=true"/>
+<div align="center">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TNTyep520&layout=compact&show_icons=true&&bg_color=00000000&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TNTyep520&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TNTyep520&layout=compact&show_icons=true&&bg_color=00000000&hide_border=true"/>
+
+</div>
 
 Hello Everyone, 我是 TNTyep520
 
